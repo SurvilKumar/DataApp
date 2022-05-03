@@ -1,0 +1,52 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Iphone 12",
+            "price": 999,
+            "dec": "Iphone 12 with 256 gb",
+            "color": "Black",
+            "image": "https://images.unsplash.com/photo-1611791485440-24e8239a0377?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8aXBob25lJTIwMTIlMjBwcm98ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80"
+        },
+        {
+            "id": 2,
+            "name": "Iphone 9",
+            "price": 777,
+            "dec": "Iphone 9 with 256 gb",
+            "color": "white",
+            "image": "https://images.macrumors.com/t/1hgH4ssZGxqDQ_1VipzgJWHQdHw=/800x0/smart/https://images.macrumors.com/article-new/2016/05/iphone8gold.jpg?lossy"
+        },
+        {
+            "id": 3,
+            "name": "One pluse",
+            "price": 666,
+            "dec": "One pluse with 256 gb",
+            "color": "Black",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCsX6pktcwLPtZNX0_PaLUxQsnQrWLH3qzLYKPJ8PjeUwLRXyCfzLcWZE19g&usqp=CAc"
+        },
+        {
+            "id": 1,
+            "name": "Iphone 7",
+            "price": 555,
+            "dec": "Iphone 7 with 256 gb",
+            "color": "Black",
+            "image": "https://m.media-amazon.com/images/I/715ii8c7pyL._AC_SX679_.jpg"
+        },
+        {
+            "id": 1,
+            "name": "Iphone 7 pro",
+            "price": 444,
+            "dec": "Iphone 7 pro with 256 gb",
+            "color": "Black",
+            "image": "https://m.media-amazon.com/images/I/51jQZ9iIUaL._SL1024_.jpg"
+        },
+        {
+            "id": 1,
+            "name": "Iphone 13",
+            "price": 9999,
+            "dec": "Iphone 13 with 256 gb",
+            "color": "Black",
+            "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-family-select-2021?wid=940&hei=1112&fmt=jpeg&qlt=80&.v=1629842667000"
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DataApp</string>
+    <string name="facebook_app_id">434316951540840</string>
+    <string name="fb_login_protocol_scheme">fb434316951540840</string>
+    <string name="facebook_client_token">7a620dfae02fe86ce3b211c65ffcf046</string>
+</resources>
+

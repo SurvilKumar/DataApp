@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "259081875110",
+    "project_id": "dataapp-205a6",
+    "storage_bucket": "dataapp-205a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259081875110:android:390a5440b580bdbe450e67",
+        "android_client_info": {
+          "package_name": "com.example.dataapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259081875110-dvp5q2iucnv9julinauungsmv1qk9jao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ40WGlAiEa14k0L2D1quzXzrR5kcy4pA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259081875110-dvp5q2iucnv9julinauungsmv1qk9jao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
