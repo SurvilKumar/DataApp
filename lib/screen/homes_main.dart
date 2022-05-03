@@ -445,7 +445,7 @@ class _HomeMainState extends State<HomeMain> with TickerProviderStateMixin {
         await Future.delayed(const Duration(milliseconds: 500), () {});
         UIHelper.showLoadingDialog(context, "Loading....");
         HttpClient httpClient = HttpClient();
-        print(file.values.first);
+
         final request = await httpClient.getUrl(Uri.parse(file.values.first));
 
         var response = await request.close();
