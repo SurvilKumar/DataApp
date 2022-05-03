@@ -83,7 +83,6 @@ class Auth implements Baseauth {
 
       switch (response.status) {
         case FacebookLoginStatus.success:
-          print("its work");
           final FacebookAccessToken? fbtoken = response.accessToken;
           final AuthCredential credential =
               FacebookAuthProvider.credential(fbtoken!.token);
@@ -114,7 +113,7 @@ class Auth implements Baseauth {
                 .doc(uid)
                 .set(newUser.toMap());
           }
- 
+
           return userModel;
 
         case FacebookLoginStatus.cancel:
